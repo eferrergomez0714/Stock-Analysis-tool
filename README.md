@@ -49,7 +49,7 @@ How It Works
 
 Installation
 ---
-git clone https://github.com/username/stock-analysis-app.git
+git clone [https://github.com/username/stock-analysis-app.git](https://github.com/eferrergomez0714/Stock-Analysis-tool.git)
 1. Open the solution in Visual Studio
 2. Build and run the application
 
